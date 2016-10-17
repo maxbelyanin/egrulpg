@@ -2,10 +2,15 @@
   "name": "egrulp",
   "version": "0.0.1",
   "description": "egrul.nalog.ru data grabber",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/maxbelyanin/egrulpg/egrulpg.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "egrulpp": "maxbelyanin/egrulpp",
   	"vow": "0.4.12"
   },
   "author": "Max Belyanin <maxbelyanin@gmail.com>",
