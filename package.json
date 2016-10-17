@@ -1,7 +1,7 @@
 {
-  "name": "egrulp",
+  "name": "egrulpg",
   "version": "0.0.1",
-  "description": "egrul.nalog.ru data grabber",
+  "description": "egrul.nalog.ru pdf grabber",
   "repository" : { 
     "type" : "git",
     "url" : "https://github.com/maxbelyanin/egrulpg/egrulpg.git"
@@ -13,6 +13,7 @@
     "egrulpp": "maxbelyanin/egrulpp",
   	"vow": "0.4.12"
   },
+  "main" : "lib/egrulpg",
   "author": "Max Belyanin <maxbelyanin@gmail.com>",
   "license": "ISC"
 }
